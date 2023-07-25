@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    flex: content;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2px;
+    padding-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-self: center;
+}
